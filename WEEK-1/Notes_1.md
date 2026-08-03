@@ -20,6 +20,9 @@ Started learning Neural Network, focused on Multi Layer Perceptron, understandin
 
 Performed EDA on the dataset for the project!
 
+* ##### DAY 3:
+
+  Learnt Gradient descent, and how the cost function is a great way of letting our neural network algortihm, how accurate it is on our test data!
 
 
 
