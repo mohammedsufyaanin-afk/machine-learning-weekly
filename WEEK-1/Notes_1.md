@@ -22,7 +22,7 @@ Performed EDA on the dataset for the project!
 
 * ##### DAY 3:
 
-  Learnt Gradient descent, and the importance of  cost function in obtaining an accurate neural network algortihm, how accurate it is on our test data!
+  Learnt the importance of cost function in obtaining an accurate neural network algorithm, how the concept of gradient descent helps us reach to a desirable and low cost, which consequentially means a better algorithm in all.
 
 
 
