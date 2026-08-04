@@ -26,4 +26,6 @@ Performed EDA on the dataset for the project!
 
 
 
+* ##### DAY 4:
 
+  Focused on the concept of Back propagation in a neural network, and how it is a great way to reduce the value of the cost function, by identifying the partial derivatives of the cost function with respect to each weight and bias in the network.
