@@ -15,17 +15,6 @@ This repo is a living record of:
 * **Hands-on Projects:** Mini-projects applying theory to real-world datasets.
 * **Core Concepts:** Explorations into Neural Networks, Sentiment Analysis, Natural Language Processing (NLP), and Computer Vision.
 
----
-
-## 🎯 Current Goals & Roadmap
-
-- [x] **Data Processing Foundations** (Completed via Uni coursework)
-- [ ] **Neural Networks & Deep Learning** Basics
-- [ ] **Natural Language Processing:** Sentiment Analysis & Text Classification
-- [ ] **Model Evaluation & Optimization** Techniques
-- [ ] End-to-End ML Projects
-
----
 
 ## 🛠️ Tools & Technologies
 
