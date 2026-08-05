@@ -29,3 +29,9 @@ Performed EDA on the dataset for the project!
 * ##### DAY 4:
 
   Focused on the concept of Back propagation in a neural network, and how it is a great way to reduce the value of the cost function, by identifying the partial derivatives of the cost function with respect to each weight and bias in the network.
+
+
+* ##### DAY 5:
+
+  Have uploaded the code for a multi layer perceptron, which I wrote by myself(with a little assistance from CLAUDE) which also happens to be the model that I have been using to learn the different concepts about Neural Network.
+  I have uploaded it under the name MULTI_NN, do check it out!
